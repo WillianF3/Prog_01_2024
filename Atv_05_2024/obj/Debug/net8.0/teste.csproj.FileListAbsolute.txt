@@ -1,0 +1,35 @@
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\teste\obj\Debug\net8.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\teste\obj\Debug\net8.0\teste.AssemblyInfoInputs.cache
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\teste\obj\Debug\net8.0\teste.AssemblyInfo.cs
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\teste\obj\Debug\net8.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\teste\obj\Debug\net8.0\teste.sourcelink.json
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\240318_02 - Atv Aula 5\bin\Debug\net8.0\teste.exe
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\240318_02 - Atv Aula 5\bin\Debug\net8.0\teste.deps.json
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\240318_02 - Atv Aula 5\bin\Debug\net8.0\teste.runtimeconfig.json
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\240318_02 - Atv Aula 5\bin\Debug\net8.0\teste.dll
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\240318_02 - Atv Aula 5\bin\Debug\net8.0\teste.pdb
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\240318_02 - Atv Aula 5\obj\Debug\net8.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\240318_02 - Atv Aula 5\obj\Debug\net8.0\teste.AssemblyInfoInputs.cache
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\240318_02 - Atv Aula 5\obj\Debug\net8.0\teste.AssemblyInfo.cs
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\240318_02 - Atv Aula 5\obj\Debug\net8.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\240318_02 - Atv Aula 5\obj\Debug\net8.0\teste.sourcelink.json
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\240318_02 - Atv Aula 5\obj\Debug\net8.0\teste.dll
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\240318_02 - Atv Aula 5\obj\Debug\net8.0\refint\teste.dll
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\240318_02 - Atv Aula 5\obj\Debug\net8.0\teste.pdb
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\240318_02 - Atv Aula 5\obj\Debug\net8.0\teste.genruntimeconfig.cache
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\240318_02 - Atv Aula 5\obj\Debug\net8.0\ref\teste.dll
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\Atv_05_2024\bin\Debug\net8.0\teste.exe
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\Atv_05_2024\bin\Debug\net8.0\teste.deps.json
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\Atv_05_2024\bin\Debug\net8.0\teste.runtimeconfig.json
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\Atv_05_2024\bin\Debug\net8.0\teste.dll
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\Atv_05_2024\bin\Debug\net8.0\teste.pdb
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\Atv_05_2024\obj\Debug\net8.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\Atv_05_2024\obj\Debug\net8.0\teste.AssemblyInfoInputs.cache
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\Atv_05_2024\obj\Debug\net8.0\teste.AssemblyInfo.cs
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\Atv_05_2024\obj\Debug\net8.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\Atv_05_2024\obj\Debug\net8.0\teste.sourcelink.json
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\Atv_05_2024\obj\Debug\net8.0\teste.dll
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\Atv_05_2024\obj\Debug\net8.0\refint\teste.dll
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\Atv_05_2024\obj\Debug\net8.0\teste.pdb
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\Atv_05_2024\obj\Debug\net8.0\teste.genruntimeconfig.cache
+C:\Users\55499\OneDrive\Área de Trabalho\Prog_01_2024\Atv_05_2024\obj\Debug\net8.0\ref\teste.dll
